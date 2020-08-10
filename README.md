@@ -1,5 +1,5 @@
 Assignment
-Easy Version: Build the Google.com homepage
+Build the Google.com homepage
 (the simple one with just a search box).
 
 Inside your project folder, create your index.html file
